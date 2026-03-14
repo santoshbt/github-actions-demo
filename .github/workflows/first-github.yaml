@@ -5,7 +5,7 @@ on:
       - main
 
 env:
-  PROJECT_NAME= github-actions-demo
+  PROJECT_NAME: github-actions-demo
   COURSE: LLMOps by Santosh-Turamari
 
 jobs:
